@@ -17,8 +17,8 @@ Network policy in kubernetes controls traffic flow in our cluster. In simple wor
 
 
 ## Creating Network policy
-1. [Sample yaml file]()
-2. [Official kubernetes docs]()
+1. [Sample yaml file](network-policy.yaml)
+2. [Official kubernetes docs](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 
 
 ## Understanding Network Policy
