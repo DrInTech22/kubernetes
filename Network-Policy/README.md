@@ -65,4 +65,4 @@ The network policy yaml file above will have a name of 'test-network-policy', an
 - **ipBlock**: this specifies what range of ip address is our specified pod allowed to send outgoing traffic to.
 - **cidr**: simply range of ip addresses.
 # What is next?
-## [NetworkPolicy-Demo-Project]()
+## [NetworkPolicy-Demo-Project](https://github.com/DevOpsMaestro-01x/Network-Policy-Project.git)
