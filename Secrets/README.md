@@ -77,6 +77,7 @@ spec:
 2. ## Which is better? 'env' field or 'volume' field?
 - The 'env' field is used for data configurations that won't be constantly changed because environment variables in containers cannot be changed.
 - The 'volume' field is best used for ever-changing data configurations. It also works well for passing a larger amount of configuration data.
+```
 apiVersion: apps/v1
 kind: Deployment
 metadata:
